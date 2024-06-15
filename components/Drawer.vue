@@ -3,7 +3,10 @@
     id="core-navigation-drawer"
     mobile-break-point="960"
     app
+    permanent
     width="260"
+    class="pa-2"
+    rounded
   >
     <v-list-item
       prepend-avatar="https://randomuser.me/api/portraits/men/85.jpg"
