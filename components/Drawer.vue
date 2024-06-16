@@ -8,11 +8,7 @@
     class="pa-2"
     rounded
   >
-    <v-list-item
-      prepend-avatar="https://randomuser.me/api/portraits/men/85.jpg"
-      title="John Leider"
-      nav
-    >
+    <v-list-item prepend-avatar="/Icon.png" title="Hilal Bagas" nav>
       <template v-slot:append>
         <v-btn
           icon="mdi-chevron-left"
