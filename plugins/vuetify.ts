@@ -8,7 +8,7 @@ const customDarkTheme = {
   dark: true,
   colors: {
     background: '#191A1C',
-    surface: '#191A1B',
+    surface: '#242424',
     primary: '#3f51b5',
     secondary: '#03dac6',
     error: '#f44336',
